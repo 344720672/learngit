@@ -1,0 +1,19 @@
+﻿  work1.cpp
+d:\qq文件下载\oop\work2\work1\work1.cpp(46): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+d:\qq文件下载\oop\work2\work1\work1.cpp(69): error C2131: 表达式的计算结果不是常数
+  d:\qq文件下载\oop\work2\work1\work1.cpp(67): note: 非常量参数或对非常量符号的引用导致了故障
+  d:\qq文件下载\oop\work2\work1\work1.cpp(67): note: 请参见“s_Num”的用法
+d:\qq文件下载\oop\work2\work1\work1.cpp(70): error C2131: 表达式的计算结果不是常数
+  d:\qq文件下载\oop\work2\work1\work1.cpp(67): note: 非常量参数或对非常量符号的引用导致了故障
+  d:\qq文件下载\oop\work2\work1\work1.cpp(67): note: 请参见“s_Num”的用法
+d:\qq文件下载\oop\work2\work1\work1.cpp(73): error C3863: 不可指定数组类型“short [s_num][c_num+]”
+d:\qq文件下载\oop\work2\work1\work1.cpp(79): error C3863: 不可指定数组类型“short [s_num][c_num+]”
+d:\qq文件下载\oop\work2\work1\work1.cpp(93): warning C4552: ”<<“: 未使用表达式结果
+d:\qq文件下载\oop\work2\work1\work1.cpp(99): warning C4552: ”<<“: 未使用表达式结果
+d:\qq文件下载\oop\work2\work1\work1.cpp(102): warning C4552: ”<<“: 未使用表达式结果
+d:\qq文件下载\oop\work2\work1\work1.cpp(116): error C2065: “c_num”: 未声明的标识符
+d:\qq文件下载\oop\work2\work1\work1.cpp(120): warning C4267: “参数”: 从“size_t”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
