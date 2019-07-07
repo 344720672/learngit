@@ -1,1 +1,5 @@
-﻿D:\visual studio\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(379,5): error MSB8020: The build tools for Visual Studio 2017 (Platform Toolset = 'v141') cannot be found. To build using the v141 build tools, please install Visual Studio 2017 build tools.  Alternatively, you may upgrade to the current Visual Studio tools by selecting the Project menu or right-click the solution, and then selecting "Retarget solution".
+﻿  pch.cpp
+  work3.cpp
+D:\git_lab1\learngit\work3\work3.cpp(37,12): warning C4244:  “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\git_lab1\learngit\work3\work3.cpp(231,9): warning C4101:  “j”: 未引用的局部变量
+  work3.vcxproj -> D:\git_lab1\learngit\x64\Debug\work3.exe
