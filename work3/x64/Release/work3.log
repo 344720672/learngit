@@ -1,0 +1,9 @@
+﻿  pch.cpp
+  work3.cpp
+D:\git_lab1\learngit\work3\work3.cpp(37,12): warning C4244:  “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\git_lab1\learngit\work3\work3.cpp(231,9): warning C4101:  “j”: 未引用的局部变量
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 123 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  work3.vcxproj -> D:\git_lab1\learngit\x64\Release\work3.exe
